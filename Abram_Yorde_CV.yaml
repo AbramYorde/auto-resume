@@ -2,16 +2,15 @@
 cv:
   name: Abram Yorde
   headline:
-  location: San Francisco, CA
-  email: john.doe@email.com
+  location: Englewood, OH
+  email: abram.yorde@outlook.com
   photo:
   phone:
-  website: https://rendercv.com/
   social_networks:
     - network: LinkedIn
-      username: rendercv
+      username: Abram Yorde
     - network: GitHub
-      username: rendercv
+      username: AbramYorde
   custom_connections:
   sections:
     Welcome to RenderCV:
