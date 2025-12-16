@@ -5,7 +5,7 @@ cv:
   location: Englewood, OH
   email: abram.yorde@outlook.com
   photo:
-  phone:
+  phone: +1-937-507-1958
   social_networks:
     - network: LinkedIn
       username: Abram Yorde
@@ -13,85 +13,74 @@ cv:
       username: AbramYorde
   custom_connections:
   sections:
-    Welcome to RenderCV:
-      - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
-      - See the [documentation](https://docs.rendercv.com) for more details.
+    Objective:
+      - Enable internal and external customer success via data and analytics solutions and models.
+      - Ensure these customer’s success and guide them from reactionary to proactive and guided decision making.
     education:
-      - institution: Princeton University
-        area: Computer Science
-        degree: PhD
+      - institution: Georgia Institute of Technology
+        area: Analytics
+        degree: MS
         date:
-        start_date: 2018-09
-        end_date: 2023-05
-        location: Princeton, NJ
+        start_date: 2019-01
+        end_date: 2021-12
+        location: Atlanta, GA
         summary:
         highlights:
-          - 'Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment'
-          - 'Advisor: Prof. Sanjeev Arora'
-          - NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
-      - institution: Boğaziçi University
-        area: Computer Engineering
+          - 'GPA: 3.66 / 4.00'
+      - institution: Wright State University
+        area: Mechanical Engineering
         degree: BS
         date:
-        start_date: 2014-09
-        end_date: 2018-06
-        location: Istanbul, Türkiye
+        start_date: 2015-01
+        end_date: 2017-12
+        location: Dayton, OH
         summary:
         highlights:
-          - 'GPA: 3.97/4.00, Valedictorian'
-          - Fulbright Scholarship recipient for graduate studies
+          - 'GPA: 3.71 / 4.00'
     experience:
-      - company: Nexus AI
-        position: Co-Founder & CTO
+      - company: Copeland
+        position: Senior Data Engineer
         date:
-        start_date: 2023-06
+        start_date: 2024-04
         end_date: present
-        location: San Francisco, CA
+        location: Remote
         summary:
         highlights:
-          - Built foundation model infrastructure serving 2M+ monthly API requests with 99.97% uptime
-          - Raised $18M Series A led by Sequoia Capital, with participation from a16z and Founders Fund
-          - Scaled engineering team from 3 to 28 across ML research, platform, and applied AI divisions
-          - Developed proprietary inference optimization reducing latency by 73% compared to baseline
-      - company: NVIDIA Research
-        position: Research Intern
+          - Lorem Epsum
+      - company: Copeland
+        position: Senior Data Scientist
         date:
-        start_date: 2022-05
-        end_date: 2022-08
-        location: Santa Clara, CA
+        start_date: 2023-01
+        end_date: 2024-08
+        location: Sidney, OH
         summary:
         highlights:
-          - Designed sparse attention mechanism reducing transformer memory footprint by 4.2x
-          - Co-authored paper accepted at NeurIPS 2022 (spotlight presentation, top 5% of submissions)
-      - company: Google DeepMind
-        position: Research Intern
+          - Lorem Epsum
+      - company: Emerson Climate Technologies
+        position: Data Scientist
         date:
-        start_date: 2021-05
-        end_date: 2021-08
-        location: London, UK
+        start_date: 2020-01
+        end_date: 2023-01
+        location: Sidney, OH
         summary:
         highlights:
-          - Developed reinforcement learning algorithms for multi-agent coordination
-          - Published research at top-tier venues with significant academic impact
-            - ICML 2022 main conference paper, cited 340+ times within two years
-            - NeurIPS 2022 workshop paper on emergent communication protocols
-            - Invited journal extension in JMLR (2023)
-      - company: Apple ML Research
-        position: Research Intern
+          - Lorem Epsum
+      - company: Emerson Climate Technologies
+        position: Refrigeration Project Engineer - Data Science
         date:
-        start_date: 2020-05
-        end_date: 2020-08
-        location: Cupertino, CA
+        start_date: 2018-01
+        end_date: 2020-01
+        location: Sidney, OH
         summary:
         highlights:
           - Created on-device neural network compression pipeline deployed across 50M+ devices
           - Filed 2 patents on efficient model quantization techniques for edge inference
-      - company: Microsoft Research
-        position: Research Intern
+      - company: Emerson Climate Technologies
+        position: Refrigeration Internships (Multiple Departments)
         date:
-        start_date: 2019-05
-        end_date: 2019-08
-        location: Redmond, WA
+        start_date: 2015-08
+        end_date: 2018-01
+        location: Sidney, OH
         summary:
         highlights:
           - Implemented novel self-supervised learning framework for low-resource language modeling
@@ -115,45 +104,7 @@ cv:
         highlights:
           - Reduced model size by 90% with less than 1% accuracy degradation on ImageNet
           - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
-    publications:
-      - title: 'Sparse Mixture-of-Experts at Scale: Efficient Routing for Trillion-Parameter Models'
-        authors:
-          - '*John Doe*'
-          - Sarah Williams
-          - David Park
-        summary:
-        doi: 10.1234/neurips.2023.1234
-        url:
-        journal: NeurIPS 2023
-        date: 2023-07
-      - title: Neural Architecture Search via Differentiable Pruning
-        authors:
-          - James Liu
-          - '*John Doe*'
-        summary:
-        doi: 10.1234/neurips.2022.5678
-        url:
-        journal: NeurIPS 2022, Spotlight
-        date: 2022-12
-      - title: Multi-Agent Reinforcement Learning with Emergent Communication
-        authors:
-          - Maria Garcia
-          - '*John Doe*'
-          - Tom Anderson
-        summary:
-        doi: 10.1234/icml.2022.9012
-        url:
-        journal: ICML 2022
-        date: 2022-07
-      - title: On-Device Model Compression via Learned Quantization
-        authors:
-          - '*John Doe*'
-          - Kevin Wu
-        summary:
-        doi: 10.1234/iclr.2021.3456
-        url:
-        journal: ICLR 2021, Best Paper Award
-        date: 2021-05
+
     selected_honors:
       - bullet: MIT Technology Review 35 Under 35 Innovators (2024)
       - bullet: Forbes 30 Under 30 in Enterprise Technology (2024)

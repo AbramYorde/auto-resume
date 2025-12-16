@@ -1,118 +1,97 @@
 # Abram Yorde's CV
 
+- Phone: +1 937 507 1958
 - Email: [abram.yorde@outlook.com](mailto:abram.yorde@outlook.com)
 - Location: Englewood, OH
 - LinkedIn: [Abram Yorde](https://linkedin.com/in/Abram Yorde)
 - GitHub: [AbramYorde](https://github.com/AbramYorde)
 
 
-# Welcome to RenderCV
+# Objective
 
-RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
+Enable internal and external customer success via data and analytics solutions and models.
 
-See the #link("https://docs.rendercv.com")[documentation] for more details.
+Ensure these customer’s success and guide them from reactionary to proactive and guided decision making.
 
 # Education
 
-## **Princeton University**, Computer Science
+## **Georgia Institute of Technology**, Analytics
 
-**PhD**
+**MS**
 
-Princeton, NJ
+Atlanta, GA
 
-Sept 2018 – May 2023
+Jan 2019 – Dec 2021
 
-- Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment
-
-- Advisor: Prof. Sanjeev Arora
-
-- NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
+- GPA: 3.66 \/ 4.00
 
 
 
-## **Boğaziçi University**, Computer Engineering
+## **Wright State University**, Mechanical Engineering
 
 **BS**
 
-Istanbul, Türkiye
+Dayton, OH
 
-Sept 2014 – June 2018
+Jan 2015 – Dec 2017
 
-- GPA: 3.97\/4.00, Valedictorian
-
-- Fulbright Scholarship recipient for graduate studies
+- GPA: 3.71 \/ 4.00
 
 
 
 # Experience
 
-## **Nexus AI**, Co-Founder & CTO
+## **Copeland**, Senior Data Engineer
 
-San Francisco, CA
+Remote
 
-June 2023 – present
-
-
-
-2 years 7 months
-
-- Built foundation model infrastructure serving 2M+ monthly API requests with 99.97\% uptime
-
-- Raised \$18M Series A led by Sequoia Capital, with participation from a16z and Founders Fund
-
-- Scaled engineering team from 3 to 28 across ML research, platform, and applied AI divisions
-
-- Developed proprietary inference optimization reducing latency by 73\% compared to baseline
+Apr 2024 – present
 
 
 
-## **NVIDIA Research**, Research Intern
+1 year 9 months
 
-Santa Clara, CA
-
-May 2022 – Aug 2022
+- Lorem Epsum
 
 
 
-4 months
+## **Copeland**, Senior Data Scientist
 
-- Designed sparse attention mechanism reducing transformer memory footprint by 4.2x
+Sidney, OH
 
-- Co-authored paper accepted at NeurIPS 2022 (spotlight presentation, top 5\% of submissions)
-
-
-
-## **Google DeepMind**, Research Intern
-
-London, UK
-
-May 2021 – Aug 2021
+Jan 2023 – Aug 2024
 
 
 
-4 months
+1 year 8 months
 
-- Developed reinforcement learning algorithms for multi-agent coordination
-
-- Published research at top-tier venues with significant academic impact
-
-  - ICML 2022 main conference paper, cited 340+ times within two years
-
-  - NeurIPS 2022 workshop paper on emergent communication protocols
-
-  - Invited journal extension in JMLR (2023)
+- Lorem Epsum
 
 
 
-## **Apple ML Research**, Research Intern
+## **Emerson Climate Technologies**, Data Scientist
 
-Cupertino, CA
+Sidney, OH
 
-May 2020 – Aug 2020
+Jan 2020 – Jan 2023
 
 
 
-4 months
+3 years 1 month
+
+- Lorem Epsum
+
+
+
+## **Emerson Climate Technologies**, Refrigeration Project Engineer - Data Science
+
+Sidney, OH
+
+Jan 2018 – Jan 2020
+
+
+
+2 years 1 month
 
 - Created on-device neural network compression pipeline deployed across 50M+ devices
 
@@ -120,15 +99,15 @@ May 2020 – Aug 2020
 
 
 
-## **Microsoft Research**, Research Intern
+## **Emerson Climate Technologies**, Refrigeration Internships (Multiple Departments)
 
-Redmond, WA
+Sidney, OH
 
-May 2019 – Aug 2019
+Aug 2015 – Jan 2018
 
 
 
-4 months
+2 years 6 months
 
 - Implemented novel self-supervised learning framework for low-resource language modeling
 
@@ -159,48 +138,6 @@ Jan 2021
 - Reduced model size by 90\% with less than 1\% accuracy degradation on ImageNet
 
 - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
-
-
-
-# Publications
-
-## **Sparse Mixture-of-Experts at Scale: Efficient Routing for Trillion-Parameter Models**
-
-July 2023
-
-#emph[John Doe], Sarah Williams, David Park
-
-[10.1234/neurips.2023.1234](https://doi.org/10.1234/neurips.2023.1234) (NeurIPS 2023)
-
-
-
-## **Neural Architecture Search via Differentiable Pruning**
-
-Dec 2022
-
-James Liu, #emph[John Doe]
-
-[10.1234/neurips.2022.5678](https://doi.org/10.1234/neurips.2022.5678) (NeurIPS 2022, Spotlight)
-
-
-
-## **Multi-Agent Reinforcement Learning with Emergent Communication**
-
-July 2022
-
-Maria Garcia, #emph[John Doe], Tom Anderson
-
-[10.1234/icml.2022.9012](https://doi.org/10.1234/icml.2022.9012) (ICML 2022)
-
-
-
-## **On-Device Model Compression via Learned Quantization**
-
-May 2021
-
-#emph[John Doe], Kevin Wu
-
-[10.1234/iclr.2021.3456](https://doi.org/10.1234/iclr.2021.3456) (ICLR 2021, Best Paper Award)
 
 
 
