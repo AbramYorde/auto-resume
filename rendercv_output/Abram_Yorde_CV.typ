@@ -144,7 +144,13 @@ Ensure these customer’s success and guide them from reactionary to proactive a
   [
     #strong[Copeland], Senior Data Engineer
     
-    - Lorem Epsum
+    - Expanded CO2 analytics to cover multiple major global retailers and to include different system architecture types.
+    
+    - Restructured marine analytics solution to be hosted directly in Snowflake, enabling full fleet analytics on 30k+ refrigerated containers daily.
+    
+    - Completed an internal POC to prove the viability of a cargo lane assessment analytics soultion.
+    
+    - Expanded retail refrigeration analytics solution to move to an embedded platform and enable rapid customer facing iteration.
     
   ],
   [
@@ -161,7 +167,17 @@ Ensure these customer’s success and guide them from reactionary to proactive a
   [
     #strong[Copeland], Senior Data Scientist
     
-    - Lorem Epsum
+    - Held biweekly cross team meetings to collaborate on solving a major national CO2 equipment issue. Leveraged group domain expertise to develop an analytics solution to tie all components of a CO2 refrigeration system together and identify key areas of poor system stability. Solution is still being actively developed, and used to direct customer and contractor engineering attention, improve site performance, root cause issues, and expedite Copeland’s field service engagements in both speed and accuracy.
+    
+    - Heavily leveraged Azure components to facilitate automation and solution scaling. Key competencies in Snowflake, Azure Functions, ML pipelines, Logic Apps, Azure Tables \/ Blob, and associated components.
+    
+    - Developed and deployed analytics solutions for the ProAct Retail software suite leveraging snowflake and azure pipelines to produce daily insights at scale. Currently sold offerings centered around refrigerated cases, their controlling racks, and the individual controllers themselves. ML Pipelines, snowflake aggregations, and Domo visual front end.
+    
+    - Worked through a POC with a high-profile customer and jointly developed, deployed, and quantified the value for an RTU analytics offering.
+    
+    - Worked through a POC with a high-profile customer centered around leveraging the learnings from previously deployed analytics offerings and applying this to data center cooling equipment monitoring.
+    
+    - Handled analytics for another customer engagement performing competitive analysis and complex energy comparisons. Required normalization based on case temperatures, ambient, box sizes, varying measured loads, etc. Leveraged data to suggest areas where Copeland hardware would be superior, along with suggestions of how to improve the performance of existing deployed competitive equipment.
     
   ],
   [
@@ -178,7 +194,17 @@ Ensure these customer’s success and guide them from reactionary to proactive a
   [
     #strong[Emerson Climate Technologies], Data Scientist
     
-    - Lorem Epsum
+    - Deployed and maintained a shiny app (R coded webapp) to host engineering tools \/ models deployed on Azure VM, and further standardize the compressor rating workflow. Efficiency gains and more accurate external facing information projected to save upwards of 1M\$ annually.
+    
+    - Developed a methodology to accurately project annual refrigeration rack energy consumption given a limited timeframe and limited sensor information.
+    
+    - Worked out a discrete optimization process to guide customers through most cost-effective way to refactor refrigeration systems to comply with upcoming DOE regulations.
+    
+    - Created the demand defrost algorithm for the CC200 case controller, patent application is pending and one of the key features which is driving customer adoption.
+    
+    - Handled analytics engagement with multiple high-profile customers, resulting in further adoption of customer software and hardware solutions, ongoing paid technical consultant style interaction, and identification of key hardware and software opportunities for additional revenue.
+    
+    - Standardized the data science development environment creating R and python docker development images. Enabled expedited collaboration without the need for cumbersome package management.
     
   ],
   [
@@ -195,9 +221,19 @@ Ensure these customer’s success and guide them from reactionary to proactive a
   [
     #strong[Emerson Climate Technologies], Refrigeration Project Engineer - Data Science
     
-    - Created on-device neural network compression pipeline deployed across 50M+ devices
+    - Created and manage a company R package which consolidates engineering functions, data science best practices, and department methodology.
     
-    - Filed 2 patents on efficient model quantization techniques for edge inference
+    - Consolidated work into GitHub and created standard workflows for small and large data science programs to follow.
+    
+    - Combined DOE, compressor geometry, thermodynamics, and quantile regression methods to create a standardized and statistically backed compressor ratings process supplemented and reduced by high confidence predictions.
+    
+    - Utilized historical and lab created historical data of refrigerated containers to create an algorithm to identify anomalous containers. Leverages an architecture housed in Azure to give customers actionable insights.
+    
+    - Automated the analysis of refrigeration systems in new applications for the application engineering team
+    
+    - Built a tool to streamline the aftermarket forecasting process. Leverages external drivers such as weather and economic indicators from the FRED database along with hierarchical forecasting to give forecasts with prediction intervals.
+    
+    - Used Monte Carlo simulation to answer what the minimum simulated condensing unit efficiency score must be in order for the actual unit to have less than a 5\% chance of failing a Department of Energy regulation audit.
     
   ],
   [
@@ -214,9 +250,11 @@ Ensure these customer’s success and guide them from reactionary to proactive a
   [
     #strong[Emerson Climate Technologies], Refrigeration Internships (Multiple Departments)
     
-    - Implemented novel self-supervised learning framework for low-resource language modeling
+    - Automated and streamlined access to engineering data using a GUI built with MATLAB which referenced on premise SQL servers and appended thermodynamic calculations
     
-    - Research integrated into Azure Cognitive Services, reducing training data requirements by 60\%
+    - Added to a theoretical model which approximates the effects that heat exchanger geometry has in a vapor injection circuit
+    
+    - Conducted an audit of historical airflow data and wrote \/ executed a test plan to correct discrepancies and fill in gaps
     
   ],
   [
